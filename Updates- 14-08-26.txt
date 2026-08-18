@@ -1,5 +1,0 @@
-1st update (14/08/26)- We have gathered enough data to be used for reference purpose.
-Estimated dataset- 5K+ entries
-Research gap- Need to find ?
-Research progress- Started
-Title of Research work: Detection of presence of Brain Tumor in patients using Deep Learning Techniques
